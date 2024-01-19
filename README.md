@@ -1,2 +1,2 @@
 # daily_expense
-This is daily expense tracker web applicatiob
+This is daily expense tracker web applicatio
